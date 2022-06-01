@@ -4,7 +4,7 @@
   "description": "simple graphql for fast development",
   "main": "lib/index.js",
   "scripts": {
-    "test": "node test/example.js"
+    "start": "node-dev test/example.js"
   },
   "repository": {
     "type": "git",
